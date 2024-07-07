@@ -4,7 +4,7 @@ Welcome to the JistVids App!
 
 ## Installation
 
-To get started with the Fun Test App, follow these steps:
+To get started with the JistVids, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
